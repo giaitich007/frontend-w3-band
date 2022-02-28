@@ -92,7 +92,7 @@ html {
 #slider {
   margin-top:46px;
   padding-top: 50%;
-  background:url("/assets/image/chicago.jpg") no-repeat top center/cover;
+  background:url("../image/chicago.jpg") no-repeat top center/cover;
   position: relative;
 }
 
